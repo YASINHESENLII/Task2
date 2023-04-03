@@ -1,0 +1,15 @@
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\bin\Debug\net7.0\TaskA.exe
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\bin\Debug\net7.0\TaskA.deps.json
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\bin\Debug\net7.0\TaskA.runtimeconfig.json
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\bin\Debug\net7.0\TaskA.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\bin\Debug\net7.0\TaskA.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.csproj.AssemblyReference.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.AssemblyInfoInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.AssemblyInfo.cs
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\refint\TaskA.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\TaskA.genruntimeconfig.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\TaskA\TaskA\obj\Debug\net7.0\ref\TaskA.dll
